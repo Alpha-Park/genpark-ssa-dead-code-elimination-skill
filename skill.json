@@ -1,0 +1,17 @@
+{
+  "name": "genpark-ssa-dead-code-elimination-skill",
+  "version": "1.0.0",
+  "description": "Static Single Assignment (SSA) aggressive dead code elimination (ADCE) engine analyzing def-use dependency chains and purging dead code.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "ssa-form",
+    "dead-code-elimination",
+    "compiler-optimization",
+    "def-use-chains",
+    "ir"
+  ],
+  "dependencies": []
+}
